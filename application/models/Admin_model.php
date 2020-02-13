@@ -120,7 +120,7 @@ class Admin_model extends CI_Model
                 'protocol' => 'smtp',
                 'smtp_host' => 'ssl://smtp.googlemail.com',
                 'smtp_user' => 'jendelaislam96@gmail.com',
-                'smtp_pass' => 'batainsyaallah',
+                'smtp_pass' => '',
                 'smtp_port' => 465,
                 'mailtype' => 'html',
                 'charset' => 'utf-8',
